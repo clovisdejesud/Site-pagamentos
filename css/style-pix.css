@@ -1,0 +1,36 @@
+        body {
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            background-color: whitesmoke;
+        }
+        
+        h1 {
+            text-align: center;
+            color: green;
+        }
+        
+        .altura {
+            padding: 10px;
+        }
+        
+        .espaco {
+            padding-top: 15px;
+        }
+        
+        .opcoes {
+            display: flex;
+            gap: 40px;
+        }
+        
+        .opcoes input {
+            margin-right: 8px;
+        }
+        
+        .lbl-info {
+            background-color: gold;
+            border: 1px solid rgb(0, 60, 128);
+            margin-top: 20px;
+            width: 200px;
+            height: 25px;
+            border-radius: 8px;
+            margin-left: 40px;
+        }

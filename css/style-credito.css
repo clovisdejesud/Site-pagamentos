@@ -1,0 +1,27 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: whitesmoke;
+}
+
+hr {
+    border-width: 2px;
+}
+
+.opcoes {
+    display: flex;
+    gap: 40px;
+}
+
+.opcoes input {
+    margin-right: 8px;
+}
+
+.lbl-info {
+    background-color: gold;
+    border: 1px solid rgb(0, 60, 128);
+    margin-top: 20px;
+    width: 200px;
+    height: 25px;
+    border-radius: 8px;
+    margin-left: 40px;
+}
